@@ -18,32 +18,32 @@ $ npm run build
 
 __vue项目目录结构__
 ```
-    vue-webpack				vue项目
-        │
-        ├──build				webpack配置文件夹
-        │   │
-	    │   ├──build.js				 生产环境构建
-	    │   ├──check-versions.js		检查node、npm版本
-	    │   ├──dev-client.js			开发模式下用到的工具，如：热重载
-	    │   ├──dev-server.js			开发模式下，构建本地服务
-	    │   ├──utils.js				 构建工具相关，封装了webpack模块用到的方法
-	    │   ├──vue-loader.conf.js	   .vue单文件加载配置
-	    │   ├──webpack.base.conf.js	 webpack基础配置
-	    │   ├──webpack.dev.conf.js	  webpack开发环境配置
-	    │   ├──webpack.prod.conf.js	 webpack生产环境配置
-	    │
-        ├──config				webpack配置所用变量
-        │   ├──dev.env.js				开发环境
-	    │   ├──index.js					webpack配置文件
-	    │   ├──prod.env.js				生产环境
-	    │
-        ├──src 					源文件夹
-        ├──static 				静态文件夹
-        ├──.babelrc				babel编译配置
-        ├──.editorconfig		在IDE中提供代码一致性
-        ├──.postcssrc.js		通过JS插件装换样式的工具
-        ├──index.html			webpack插件HtmlWebpackPlugin生成html所用的模版
-        ├──package.json			项目信息及依赖
+vue-webpack				vue项目
+    │
+    ├──build				webpack配置文件夹
+    │   │
+    │   ├──build.js				 生产环境构建
+    │   ├──check-versions.js		检查node、npm版本
+    │   ├──dev-client.js			开发模式下用到的工具，如：热重载
+    │   ├──dev-server.js			开发模式下，构建本地服务
+    │   ├──utils.js				 构建工具相关，封装了webpack模块用到的方法
+    │   ├──vue-loader.conf.js	   .vue单文件加载配置
+    │   ├──webpack.base.conf.js	 webpack基础配置
+    │   ├──webpack.dev.conf.js	  webpack开发环境配置
+    │   ├──webpack.prod.conf.js	 webpack生产环境配置
+    │
+    ├──config				webpack配置所用变量
+    │   ├──dev.env.js				开发环境
+    │   ├──index.js					webpack配置文件
+    │   ├──prod.env.js				生产环境
+    │
+    ├──src 					源文件夹
+    ├──static 				静态文件夹
+    ├──.babelrc				babel编译配置
+    ├──.editorconfig		在IDE中提供代码一致性
+    ├──.postcssrc.js		通过JS插件装换样式的工具
+    ├──index.html			webpack插件HtmlWebpackPlugin生成html所用的模版
+    ├──package.json			项目信息及依赖
 ```
 默认情况下：
 
