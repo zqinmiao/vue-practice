@@ -11,7 +11,7 @@ $ npm run dev
 $ npm run build
 ```
 
-## [使用vue开发项目梳理及需要掌握的知识点](http://yayajiu.com/2017/09/%E4%BD%BF%E7%94%A8vue%E5%BC%80%E5%8F%91%E9%A1%B9%E7%9B%AE%E6%A2%B3%E7%90%86%E5%8F%8A%E9%9C%80%E8%A6%81%E6%8E%8C%E6%8F%A1%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9/)
+## [使用vue开发项目梳理及需要掌握的知识点](http://reahink.com/2017/09/%E4%BD%BF%E7%94%A8vue%E5%BC%80%E5%8F%91%E9%A1%B9%E7%9B%AE%E6%A2%B3%E7%90%86%E5%8F%8A%E9%9C%80%E8%A6%81%E6%8E%8C%E6%8F%A1%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9/)
 
 
 ## 过程
