@@ -1,5 +1,9 @@
 # vue-practice
 
+__Node:__ v6.10.0
+
+__vue-cli:__ v2.8.2
+
 ```
 $ cd vue-webpack
 $ npm install
