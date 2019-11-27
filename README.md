@@ -1,8 +1,8 @@
 # vue-practice
 
-__Node:__ v6.10.0
+![node](https://img.shields.io/badge/node-v6.10.0-green)
+![vue-cli](https://img.shields.io/badge/vue--cli-v2.8.2-green)
 
-__vue-cli:__ v2.8.2
 
 ```
 $ cd vue-webpack
