@@ -1,8 +1,7 @@
 # vue-practice
 
-![node](https://img.shields.io/badge/node-v6.10.0-green)
+<a href="https://nodejs.org">![node](https://img.shields.io/badge/node-v6.10.0-green)</a>
 ![vue-cli](https://img.shields.io/badge/vue--cli-v2.8.2-green)
-
 
 ```
 $ cd vue-webpack
